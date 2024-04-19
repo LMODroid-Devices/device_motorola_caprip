@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_caprip.mk
+    $(LOCAL_DIR)/lmodroid_caprip.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_caprip-user \
-    lineage_caprip-userdebug \
-    lineage_caprip-eng
+    lmodroid_caprip-user \
+    lmodroid_caprip-userdebug \
+    lmodroid_caprip-eng
