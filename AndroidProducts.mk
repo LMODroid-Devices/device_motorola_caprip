@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_caprip.mk
+    $(LOCAL_DIR)/lmodroid_caprip.mk
